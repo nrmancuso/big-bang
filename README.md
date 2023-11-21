@@ -1,6 +1,6 @@
 # CUDA/ OpenMp Hybrid Big Bang N-Body Simulation
 
-![bigbang](https://thumbs.gfycat.com/DazzlingSoggyBlackbuck-size_restricted.gif)
+![bigbang](https://github.com/nrmancuso/big-bang/blob/main/gif/big-bang.gif)
 
 ### ABOUT
 
